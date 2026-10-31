@@ -2,6 +2,8 @@
 
 Server **Model Context Protocol (MCP)** resmi untuk ekstraksi dan analisis metrik postingan media sosial (TikTok, YouTube, Instagram Reels, Twitter/X, Facebook) bagi AI Agent (Cursor, Claude Desktop, OpenCode, Windsurf).
 
+> **Core Engine Credit**: Powered by open-source extractors from [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp).
+
 ---
 
 ## 🔒 Security & Best Practice Autentikasi

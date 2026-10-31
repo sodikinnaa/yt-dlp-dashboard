@@ -11,6 +11,10 @@
 [![Commits](https://img.shields.io/github/commit-activity/m/yt-dlp/yt-dlp?label=commits&style=for-the-badge)](https://github.com/yt-dlp/yt-dlp/commits "Commit History")
 
 </div>
+
+> **Credits & Acknowledgements**
+> This project is powered by [yt-dlp](https://github.com/yt-dlp/yt-dlp). All media extraction and platform extractor capabilities are credited to the maintainers and contributors of the original [yt-dlp repository](https://github.com/yt-dlp/yt-dlp).
+> Additions in this fork: Social Metrics REST API & dashboard ([`web/`](web/)) and MCP server ([`mcp/`](mcp/README.md)).
 <!-- MANPAGE: END EXCLUDED SECTION -->
 
 yt-dlp is a feature-rich command-line audio/video downloader with support for [thousands of sites](supportedsites.md). The project is a fork of [youtube-dl](https://github.com/ytdl-org/youtube-dl) based on the now inactive [youtube-dlc](https://github.com/blackjack4494/yt-dlc).

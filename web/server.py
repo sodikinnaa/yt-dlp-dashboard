@@ -244,6 +244,7 @@ class SecureApiHandler(http.server.BaseHTTPRequestHandler):
                 'status': 'ok',
                 'service': 'Social Media Metrics API & MCP Server',
                 'engine': 'yt-dlp',
+                'upstream_credit': 'https://github.com/yt-dlp/yt-dlp',
                 'port': PORT,
                 'mcp_sse_endpoint': f'/sse'
             })
