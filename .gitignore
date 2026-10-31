@@ -3,6 +3,11 @@
 cookies
 *cookies.txt
 .netrc
+.env
+*.db
+*.log
+
+
 
 # Downloaded
 *.annotations.xml

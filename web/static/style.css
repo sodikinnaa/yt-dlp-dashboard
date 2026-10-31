@@ -1,0 +1,15 @@
+/* Minimal Scrollbar & Overrides */
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+::-webkit-scrollbar-track {
+    background: #09090b;
+}
+::-webkit-scrollbar-thumb {
+    background: #27272a;
+    border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #3f3f46;
+}
